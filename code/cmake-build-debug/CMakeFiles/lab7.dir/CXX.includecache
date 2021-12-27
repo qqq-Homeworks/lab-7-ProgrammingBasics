@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/qqq/Documents/University/1 course/ 1 term/programming basics/labs/7 lab/code/iu5_lab7/functions.cpp
+header.h
+/Users/qqq/Documents/University/1 course/ 1 term/programming basics/labs/7 lab/code/iu5_lab7/header.h
+
+/Users/qqq/Documents/University/1 course/ 1 term/programming basics/labs/7 lab/code/iu5_lab7/header.h
+fstream
+-
+iostream
+/Users/qqq/Documents/University/1 course/ 1 term/programming basics/labs/7 lab/code/iu5_lab7/iostream
+
