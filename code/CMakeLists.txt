@@ -3,4 +3,4 @@ project(lab7)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(lab7 main.cpp header.h functions.cpp)
+add_executable(lab7 main.cpp functions.h functions.cpp)

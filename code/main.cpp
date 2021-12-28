@@ -1,11 +1,11 @@
 // ALL CODE BY @Veglen
 
-#include "header.h"
+#include "functions.h"
 
 
 int main() {
     encription("example.txt", "key.txt", true);
-    // encription("encrypted.txt", "key.txt", false);
+    encription("encrypted.txt", "key.txt", false);
     return 0;
 }
 

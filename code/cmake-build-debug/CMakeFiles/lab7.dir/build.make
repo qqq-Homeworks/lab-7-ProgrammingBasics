@@ -53,10 +53,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/Users/qqq/Documents/University/1 course/ 1 term/programming basics/labs/7 lab/code/iu5_lab7"
+CMAKE_SOURCE_DIR = "/Users/qqq/Documents/University/1 course/ 1 term/programming basics/labs/7 lab/code"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/Users/qqq/Documents/University/1 course/ 1 term/programming basics/labs/7 lab/code/iu5_lab7/cmake-build-debug"
+CMAKE_BINARY_DIR = "/Users/qqq/Documents/University/1 course/ 1 term/programming basics/labs/7 lab/code/cmake-build-debug"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/lab7.dir/depend.make
@@ -68,29 +68,29 @@ include CMakeFiles/lab7.dir/flags.make
 
 CMakeFiles/lab7.dir/main.cpp.o: CMakeFiles/lab7.dir/flags.make
 CMakeFiles/lab7.dir/main.cpp.o: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/qqq/Documents/University/1 course/ 1 term/programming basics/labs/7 lab/code/iu5_lab7/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/lab7.dir/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/lab7.dir/main.cpp.o -c "/Users/qqq/Documents/University/1 course/ 1 term/programming basics/labs/7 lab/code/iu5_lab7/main.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/qqq/Documents/University/1 course/ 1 term/programming basics/labs/7 lab/code/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/lab7.dir/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/lab7.dir/main.cpp.o -c "/Users/qqq/Documents/University/1 course/ 1 term/programming basics/labs/7 lab/code/main.cpp"
 
 CMakeFiles/lab7.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lab7.dir/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/qqq/Documents/University/1 course/ 1 term/programming basics/labs/7 lab/code/iu5_lab7/main.cpp" > CMakeFiles/lab7.dir/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/qqq/Documents/University/1 course/ 1 term/programming basics/labs/7 lab/code/main.cpp" > CMakeFiles/lab7.dir/main.cpp.i
 
 CMakeFiles/lab7.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lab7.dir/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/qqq/Documents/University/1 course/ 1 term/programming basics/labs/7 lab/code/iu5_lab7/main.cpp" -o CMakeFiles/lab7.dir/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/qqq/Documents/University/1 course/ 1 term/programming basics/labs/7 lab/code/main.cpp" -o CMakeFiles/lab7.dir/main.cpp.s
 
 CMakeFiles/lab7.dir/functions.cpp.o: CMakeFiles/lab7.dir/flags.make
 CMakeFiles/lab7.dir/functions.cpp.o: ../functions.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/qqq/Documents/University/1 course/ 1 term/programming basics/labs/7 lab/code/iu5_lab7/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/lab7.dir/functions.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/lab7.dir/functions.cpp.o -c "/Users/qqq/Documents/University/1 course/ 1 term/programming basics/labs/7 lab/code/iu5_lab7/functions.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/qqq/Documents/University/1 course/ 1 term/programming basics/labs/7 lab/code/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/lab7.dir/functions.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/lab7.dir/functions.cpp.o -c "/Users/qqq/Documents/University/1 course/ 1 term/programming basics/labs/7 lab/code/functions.cpp"
 
 CMakeFiles/lab7.dir/functions.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lab7.dir/functions.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/qqq/Documents/University/1 course/ 1 term/programming basics/labs/7 lab/code/iu5_lab7/functions.cpp" > CMakeFiles/lab7.dir/functions.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/qqq/Documents/University/1 course/ 1 term/programming basics/labs/7 lab/code/functions.cpp" > CMakeFiles/lab7.dir/functions.cpp.i
 
 CMakeFiles/lab7.dir/functions.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lab7.dir/functions.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/qqq/Documents/University/1 course/ 1 term/programming basics/labs/7 lab/code/iu5_lab7/functions.cpp" -o CMakeFiles/lab7.dir/functions.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/qqq/Documents/University/1 course/ 1 term/programming basics/labs/7 lab/code/functions.cpp" -o CMakeFiles/lab7.dir/functions.cpp.s
 
 # Object files for target lab7
 lab7_OBJECTS = \
@@ -104,7 +104,7 @@ lab7: CMakeFiles/lab7.dir/main.cpp.o
 lab7: CMakeFiles/lab7.dir/functions.cpp.o
 lab7: CMakeFiles/lab7.dir/build.make
 lab7: CMakeFiles/lab7.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/Users/qqq/Documents/University/1 course/ 1 term/programming basics/labs/7 lab/code/iu5_lab7/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable lab7"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/Users/qqq/Documents/University/1 course/ 1 term/programming basics/labs/7 lab/code/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable lab7"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/lab7.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -116,6 +116,6 @@ CMakeFiles/lab7.dir/clean:
 .PHONY : CMakeFiles/lab7.dir/clean
 
 CMakeFiles/lab7.dir/depend:
-	cd "/Users/qqq/Documents/University/1 course/ 1 term/programming basics/labs/7 lab/code/iu5_lab7/cmake-build-debug" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/Users/qqq/Documents/University/1 course/ 1 term/programming basics/labs/7 lab/code/iu5_lab7" "/Users/qqq/Documents/University/1 course/ 1 term/programming basics/labs/7 lab/code/iu5_lab7" "/Users/qqq/Documents/University/1 course/ 1 term/programming basics/labs/7 lab/code/iu5_lab7/cmake-build-debug" "/Users/qqq/Documents/University/1 course/ 1 term/programming basics/labs/7 lab/code/iu5_lab7/cmake-build-debug" "/Users/qqq/Documents/University/1 course/ 1 term/programming basics/labs/7 lab/code/iu5_lab7/cmake-build-debug/CMakeFiles/lab7.dir/DependInfo.cmake" --color=$(COLOR)
+	cd "/Users/qqq/Documents/University/1 course/ 1 term/programming basics/labs/7 lab/code/cmake-build-debug" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/Users/qqq/Documents/University/1 course/ 1 term/programming basics/labs/7 lab/code" "/Users/qqq/Documents/University/1 course/ 1 term/programming basics/labs/7 lab/code" "/Users/qqq/Documents/University/1 course/ 1 term/programming basics/labs/7 lab/code/cmake-build-debug" "/Users/qqq/Documents/University/1 course/ 1 term/programming basics/labs/7 lab/code/cmake-build-debug" "/Users/qqq/Documents/University/1 course/ 1 term/programming basics/labs/7 lab/code/cmake-build-debug/CMakeFiles/lab7.dir/DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/lab7.dir/depend
 

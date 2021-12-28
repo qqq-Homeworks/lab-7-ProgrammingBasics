@@ -3,7 +3,7 @@
 
 CMakeFiles/lab7.dir/functions.cpp.o: \
  ../functions.cpp \
- ../header.h
+ ../functions.h
 CMakeFiles/lab7.dir/main.cpp.o: \
- ../header.h \
+ ../functions.h \
  ../main.cpp

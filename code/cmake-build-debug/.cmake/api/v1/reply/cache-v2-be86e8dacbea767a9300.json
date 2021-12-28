@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/qqq/Documents/University/1 course/ 1 term/programming basics/labs/7 lab/code/iu5_lab7/cmake-build-debug"
+			"value" : "/Users/qqq/Documents/University/1 course/ 1 term/programming basics/labs/7 lab/code/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -627,7 +627,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/qqq/Documents/University/1 course/ 1 term/programming basics/labs/7 lab/code/iu5_lab7"
+			"value" : "/Users/qqq/Documents/University/1 course/ 1 term/programming basics/labs/7 lab/code"
 		},
 		{
 			"name" : "CMAKE_INSTALL_NAME_TOOL",
@@ -1219,7 +1219,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/qqq/Documents/University/1 course/ 1 term/programming basics/labs/7 lab/code/iu5_lab7/cmake-build-debug"
+			"value" : "/Users/qqq/Documents/University/1 course/ 1 term/programming basics/labs/7 lab/code/cmake-build-debug"
 		},
 		{
 			"name" : "lab7_SOURCE_DIR",
@@ -1231,7 +1231,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/qqq/Documents/University/1 course/ 1 term/programming basics/labs/7 lab/code/iu5_lab7"
+			"value" : "/Users/qqq/Documents/University/1 course/ 1 term/programming basics/labs/7 lab/code"
 		}
 	],
 	"kind" : "cache",

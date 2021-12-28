@@ -1,4 +1,4 @@
-#include "header.h"
+#include "functions.h"
 
 void encription(char *file_name, char *key_file_name, bool flag) {
     std::fstream original_file;
@@ -49,7 +49,7 @@ void encription(char *file_name, char *key_file_name, bool flag) {
     std::cin >> ch;
     int sim = (int) ch;
     std::cout << "Символ " << ch << " был закодирован: " << std::endl;
-    for (int i = 0; i < 256; i++) {
+    for (int i = 33; i < 127; i++) {
         if (stat[sim][i] != 0) {
             std::cout << "Символом " << " " << char(i) << " " << stat[sim][i] << std::endl;
         }

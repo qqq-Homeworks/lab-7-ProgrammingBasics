@@ -6,13 +6,17 @@
 
 #IncludeRegexTransform: 
 
-/Users/qqq/Documents/University/1 course/ 1 term/programming basics/labs/7 lab/code/iu5_lab7/functions.cpp
-header.h
-/Users/qqq/Documents/University/1 course/ 1 term/programming basics/labs/7 lab/code/iu5_lab7/header.h
+/Users/qqq/Documents/University/1 course/ 1 term/programming basics/labs/7 lab/code/functions.cpp
+functions.h
+/Users/qqq/Documents/University/1 course/ 1 term/programming basics/labs/7 lab/code/functions.h
 
-/Users/qqq/Documents/University/1 course/ 1 term/programming basics/labs/7 lab/code/iu5_lab7/header.h
+/Users/qqq/Documents/University/1 course/ 1 term/programming basics/labs/7 lab/code/functions.h
 fstream
 -
 iostream
-/Users/qqq/Documents/University/1 course/ 1 term/programming basics/labs/7 lab/code/iu5_lab7/iostream
+/Users/qqq/Documents/University/1 course/ 1 term/programming basics/labs/7 lab/code/iostream
+
+/Users/qqq/Documents/University/1 course/ 1 term/programming basics/labs/7 lab/code/main.cpp
+functions.h
+/Users/qqq/Documents/University/1 course/ 1 term/programming basics/labs/7 lab/code/functions.h
 
